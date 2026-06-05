@@ -1,16 +1,44 @@
-# React + Vite
+# React Practice Apps (react-curd-app)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A collection of **10 React mini projects** with routing — built for learning `useState`, forms, APIs, localStorage, and component communication.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**https://enithachandrasekaran.github.io/react-curd-app/**
 
-## React Compiler
+## Apps included
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+| # | App | Route | Practice |
+|---|-----|-------|----------|
+| 1 | Counter | `/counter` | useState, events |
+| 2 | Todo List | `/todo` | map, filter |
+| 3 | User Form | `/form` | controlled inputs, validation |
+| 4 | Calculator | `/calculator` | state, functions |
+| 5 | Weather | `/weather` | fetch, API |
+| 8 | Notes | `/notes` | localStorage |
+| 9 | Expenses | `/expenses` | component communication |
+| 10 | Movies | `/movies` | API, loading states |
+| — | CRUD | `/crud` | full CRUD |
 
-## Expanding the ESLint configuration
+## Tech stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React 19
+- Vite
+- React Router
+
+## Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Repository
+
+https://github.com/Enithachandrasekaran/react-curd-app
