@@ -14,6 +14,15 @@
     "react-dom": "^19.2.6",
     "react-router-dom": "^7.16.0"
   },
+  "description": "Collection of React mini projects — Counter, Todo, CRUD, Weather API, Movies, and more",
+  "keywords": ["react", "crud", "vite", "practice-apps", "portfolio"],
+  "author": "Enitha Chandrasekaran <https://github.com/Enithachandrasekaran>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Enithachandrasekaran/react-curd-app.git"
+  },
+  "homepage": "https://enithachandrasekaran.github.io/react-curd-app/",
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@types/react": "^19.2.14",
