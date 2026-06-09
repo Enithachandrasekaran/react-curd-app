@@ -46,13 +46,23 @@ Ideal for portfolios, interviews, and demonstrating progressive React skills fro
 
 ## Screenshots
 
-> Open the [live demo](https://enithachandrasekaran.github.io/react-curd-app/) to explore each app interactively.
+### Home dashboard
+![Home dashboard](./docs/screenshots/home.png)
 
-| Home dashboard | CRUD app | Movie search |
-|----------------|----------|--------------|
-| [View live →](https://enithachandrasekaran.github.io/react-curd-app/) | [View live →](https://enithachandrasekaran.github.io/react-curd-app/crud) | [View live →](https://enithachandrasekaran.github.io/react-curd-app/movies) |
+### Counter app
+![Counter app](./docs/screenshots/counter.png)
 
-*Tip: Add PNG screenshots under `docs/screenshots/` and embed them here for offline README viewing.*
+### Todo list
+![Todo list](./docs/screenshots/todo.png)
+
+### CRUD app
+![CRUD app](./docs/screenshots/crud.png)
+
+### Movie search
+![Movie search](./docs/screenshots/movies.png)
+
+### Weather app
+![Weather app](./docs/screenshots/weather.png)
 
 ---
 
